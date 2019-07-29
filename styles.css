@@ -72,6 +72,12 @@ header > h1 {
 	color: white;
 }
 
+.instructions {
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+
 .result > p {
 	text-align: center;
 	font-weight: bold;
